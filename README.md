@@ -1,5 +1,5 @@
-ImageMatcher
-============
+Image Matcher
+=============
 
 Simple app to match similar images on internet
 
