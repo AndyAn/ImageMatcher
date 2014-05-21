@@ -1,0 +1,12 @@
+﻿Help on Usage:
+  Commands:
+    set output   Set output to device [FILE/SCREEN].
+                 e.g. set output = file
+    get sample   Generate sample files.
+    go match     Start the image matching.
+    set proxy    Set web proxy, using IP
+                 e.g. set proxy = 127.0.0.1
+    set accuracy Set matching accuracy [low/normal/high].
+                 e.g. set accuracy = low
+    get help     Display usage information (this message).
+    exit         Exit the application
